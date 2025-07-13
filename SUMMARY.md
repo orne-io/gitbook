@@ -1,5 +1,6 @@
 # Summary
 
+## About Orne
 - [⭐ Introduction](introduction.md)
 - [🌲 The Wood Market](wood-market.md)
 - [🎯 Target Audience](target.md)
@@ -14,4 +15,5 @@
 - [♻️ Token Utility](co2-utility.md)
 - [🧾 Green Certificate](green-certificate.md)
 
+## App
 - [🖥️ App Overview](App_Documentation.md)
