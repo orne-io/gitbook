@@ -1,40 +1,39 @@
 # ⭐ Welcome to Orne
 
-Orne.io is reshaping forest investment for the 21st century by leveraging blockchain to finance sustainable forestry.
+**Orne.io** is transforming forest investment by making it simple, liquid, and accessible through blockchain technology.
 
 ---
 
-## 🌱 What is Orne?
+## 🌱 A new way to invest in real forests
 
-**Orne.io** empowers individuals and organizations to invest in **real trees** through the purchase of tokenized assets. These digital tokens, called **NFTrees**, represent **individual trees** managed within a real and sustainable forest. Each NFTree gives its holder a **right to the full revenue from the final timber harvest**, while remaining tradable at any point before maturity.
+Traditionally, investing in forestry required time, expertise, and substantial capital. It was a slow, opaque market limited to a handful of insiders. Orne changes that.
 
----
-
-## 🚨 The Problem
-
-Investing in forests has long been:
-
-- Complex, requiring knowledge of forest management  
-- Inaccessible, with high entry costs and illiquid assets  
-- Slow, since trees take decades to mature
-
-Meanwhile, global demand for timber is skyrocketing, and deforestation is accelerating—leading to rising wood prices and ecological risks.
+We allow anyone to purchase a **digital share of a real tree**, sustainably managed in an operational forest. Each share entitles the holder to a **direct payout when the tree is harvested**, with no management required.
 
 ---
 
-## 🌍 The Orne Solution
+## 🚨 The problem
 
-Orne introduces a **tokenized model of tree ownership** that allows anyone to:
-
-- **Own real trees** through NFTs with traceable on-chain data (species, age, geolocation, status)
-- **Trade or hold trees** depending on market dynamics
-- **Earn revenue** when trees are harvested
-- **Support sustainable forestry**
-
-We handle all planting, monitoring, and harvesting operations—so you don’t have to.
+- Global demand for timber is skyrocketing (construction, energy, paper…)
+- Wood is becoming a **strategic commodity**, but remains highly illiquid
+- Forestry investment is locked behind paperwork, delays, and high entry barriers
 
 ---
 
-## 🔁 From Trees to Tokens
+## 🌍 Orne's solution
 
-Using Orne, you can swap your crypto for NFTrees in just a few clicks. Later, you’ll be able to trade them on our **decentralized marketplace**, where supply and demand determine pricing. No notaries. No paperwork. Just forests, reimagined.
+Through tokenization, Orne enables:
+
+- **Easy and direct access to forest assets**
+- **Valuation of trees throughout their lifecycle**
+- **A bridge between sustainable forestry and decentralized finance**
+
+Trees are sustainably managed, closely monitored, and revenues are shared with investors **automatically, transparently, and without intermediaries**.
+
+---
+
+## 🔁 From forest to wallet
+
+Users can **exchange crypto for tree shares** (via $ORNE), track their holdings over time, and receive timber revenues directly into their wallet.
+
+Orne acts as a **bridge between the physical forest and digital finance**, making natural resource investment efficient, transparent, and open to all.
