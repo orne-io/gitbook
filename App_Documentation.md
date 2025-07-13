@@ -1,4 +1,4 @@
-# App Documentation
+# 🖥️ App Documentation
 
 Welcome to the official documentation for the ORNE (Orne) Decentralized Application (DApp). This comprehensive guide will help you understand and use all the features of the ORNE ecosystem.
 
