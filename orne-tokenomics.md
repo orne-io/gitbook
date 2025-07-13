@@ -6,7 +6,7 @@ $ORNE is the **native utility token** of the Orne ecosystem. It fuels tree-relat
 
 ## 💰 Supply
 
-- **Total Supply**: 65,000,000 $ORNE
+- **Total Supply**: 100,000,000 $ORNE
 - **Initial Distribution**: Used to convert previous NFTs (1 NFT = 5,000 $ORNE)
 
 ---
