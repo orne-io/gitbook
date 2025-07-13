@@ -1,16 +1,16 @@
 # 🔍 How It Works
 
-## 1. Buy NFTrees  
-Use crypto or $ORNE to acquire tokenized trees. Each NFT represents a real tree in a sustainable forest.
+## 1. Acquire Tree Shares  
+Use $ORNE to purchase a **share of a real tree** managed in a sustainable forest. Each share gives you rights to future timber revenue.
 
-## 2. Track and Hold  
-Your trees grow over time. Follow their evolution, value, and market price through your dashboard.
+## 2. Track Your Forest Portfolio  
+From your personal dashboard, monitor the age, species, location, and estimated value of your trees as they grow.
 
-## 3. Trade or Wait  
-Sell your NFTrees at any time via the marketplace or wait until maturity to receive timber revenue.
+## 3. Hold or Exit  
+Hold your shares long-term or trade them on our upcoming marketplace, depending on your investment strategy and market conditions.
 
-## 4. Harvest & Get Paid  
-When your tree is cut down (at maturity), **100% of the timber proceeds** are transferred to your wallet.
+## 4. Harvest & Earn  
+Once the tree reaches maturity and is harvested, **100% of the revenue from the timber sale** is distributed to shareowners proportionally.
 
-## ✅ Zero hassle  
-We take care of planting, monitoring, forestry operations, and logistics. You just collect the value.
+## ✅ Fully Managed by Orne  
+We handle all forestry operations — planting, maintenance, thinning, and cutting. No administrative burden, no middlemen, just clean investment.
