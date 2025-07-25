@@ -141,13 +141,13 @@ Track your forest portfolio in real time:
 - $ORNE balance and staked tokens
 - Tree share ownership and maturity status
 - Accrued timber revenue
-- $CO₂ accumulation and claimable credits
+- $CO₂ accumulation and claimable credits (Coming Soon)
 
 ### 📊 Carbon Impact Tools
 
 Estimate your carbon footprint and offset requirements using in-app tools. Simulate scenarios, calculate reductions, and visualize your impact over time.
 
-### 🧾 $CO₂ Claim & Certificate Minting
+### 🧾 $CO₂ Claim & Certificate Minting (Coming Soon)
 
 Easily claim $CO₂ tokens from eligible tree growth. When desired, users can:
 - Burn tokens
@@ -163,7 +163,7 @@ Buy and sell:
 
 A fully decentralized marketplace connects buyers and sellers globally, enhancing liquidity and impact.
 
-### 🧬 On-chain Transparency
+### 🧬 On-chain Transparency (Coming Soon)
 
 All key data points are verifiable on-chain:
 - Tree geolocation and species
@@ -222,8 +222,8 @@ Orne.io is led by a multidisciplinary team with expertise in forestry, blockchai
 
 ### Founding Team
 - **Luc Michault** – CEO, Product & Vision  
-- **Valentin Michault** – CTO, Blockchain & Infrastructure  
-- **Yuri Saito** – COO, Forestry Partnerships & ESG
+- **Valentin Michault** – COO, Forest and assets manager 
+- **Yuri Saito** – CM, Forestry Partnerships
 
 Our combined experience ensures that Orne operates at the intersection of innovation and real-world ecological stewardship.
 
@@ -255,12 +255,13 @@ Transparency, diversification, and active monitoring are key to minimizing inves
 
 We are currently raising capital to expand the Orne ecosystem and onboard the next generation of investors and forests.
 
-### Target Raise: [$X million – customizable depending on campaign]
+### Target Raise: [$2 million]
 
 ### Use of Funds:
 - 40% – Forest acquisition and sustainable management  
-- 25% – Platform development (tech, dashboard, mobile app)  
-- 15% – Legal, certification & compliance  
+- 15% – Platform development (tech, dashboard, mobile app)
+- 15% - Liquidity
+- 10% – Legal, certification & compliance  
 - 10% – Marketing and education  
 - 10% – Treasury reserves
 
