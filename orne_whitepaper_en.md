@@ -53,12 +53,6 @@ $ORNE is the utility and governance token of the Orne ecosystem. It represents f
 - Access staking, governance, and ecosystem benefits
 
 **Total Supply:** 100,000,000 $ORNE  
-**Token Allocation:**
-- 40% – Community Incentives & Staking Rewards  
-- 25% – Ecosystem Development (partners, grants, reforestation)  
-- 15% – Liquidity & Exchanges  
-- 10% – Team & Advisors (vested)  
-- 10% – Treasury & Reserves
 
 $ORNE is designed for long-term sustainability and value creation, with mechanisms to incentivize active holders and forest-positive behaviors.
 
