@@ -4,7 +4,7 @@
 - [⭐ Introduction](introduction.md)
 - [🌲 The Wood Market](wood-market.md)
 - [🎯 Target Audience](target.md)
-- [🎯 White Paper](orne_whitepaper_en.md)
+- [🧾 White Paper](orne_whitepaper_en.md)
 
 ## $ORNE Ecosystem
 - [🌱 Tokenomics](orne-tokenomics.md)
